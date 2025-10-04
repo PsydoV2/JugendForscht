@@ -1,0 +1,17 @@
+{
+    "entity_id": "sensor.b330_airsense_temperatur_von_dht_b330_2",
+    "state": "23.9",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°C",
+      "device_class": "temperature",
+      "friendly_name": "B330 Airsense Temperatur von DHT - B330"
+    },
+    "last_changed": "2024-03-19T13:04:50.560485+00:00",
+    "last_updated": "2024-03-19T13:04:50.560485+00:00",
+    "context": {
+      "id": "01HSBD11W04C808QB6VKN11J8P",
+      "parent_id": null,
+      "user_id": null
+    }
+  }

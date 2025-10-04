@@ -1,0 +1,150 @@
+[
+  {
+    "entity_id": "sensor.a208a_airsense_co2_value_a208a",
+    "state": "404",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "ppm",
+      "device_class": "carbon_dioxide",
+      "icon": "mdi:molecule-co2",
+      "friendly_name": "A208a Airsense CO2 Value - A208a"
+    },
+    "last_changed": "2024-06-17T11:40:18.477028+00:00",
+    "last_reported": "2024-06-17T11:40:18.477028+00:00",
+    "last_updated": "2024-06-17T11:40:18.477028+00:00",
+    "context": {
+      "id": "01J0JZYYNDM5KAWZX6TWPAM1VT",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a208a_airsense_temperatur_von_dht_a208a",
+    "state": "1.9",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°C",
+      "device_class": "temperature",
+      "friendly_name": "A208a Airsense Temperatur von DHT - A208a"
+    },
+    "last_changed": "2024-06-17T11:42:43.585623+00:00",
+    "last_reported": "2024-06-17T11:42:43.585623+00:00",
+    "last_updated": "2024-06-17T11:42:43.585623+00:00",
+    "context": {
+      "id": "01J0K03CC1EWBC67BKKC14JNPR",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a208_airsense_co2_value_a208",
+    "state": "473",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "ppm",
+      "device_class": "carbon_dioxide",
+      "icon": "mdi:molecule-co2",
+      "friendly_name": "A208 Airsense CO2 Value - A208"
+    },
+    "last_changed": "2024-06-17T11:41:07.185283+00:00",
+    "last_reported": "2024-06-17T11:41:07.185283+00:00",
+    "last_updated": "2024-06-17T11:41:07.185283+00:00",
+    "context": {
+      "id": "01J0K00E7HP8YAH3ZXBCZ1Z9SS",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a208_airsense_temperatur_von_dht_a208",
+    "state": "26.1",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°C",
+      "device_class": "temperature",
+      "friendly_name": "A208 Airsense Temperatur von DHT - A208"
+    },
+    "last_changed": "2024-06-17T11:35:00.343518+00:00",
+    "last_reported": "2024-06-17T11:35:00.343518+00:00",
+    "last_updated": "2024-06-17T11:35:00.343518+00:00",
+    "context": {
+      "id": "01J0JZN7ZQ8SN9JMJHMJEM2M9S",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a209_airsense_co2_value_a209",
+    "state": "465",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "ppm",
+      "device_class": "carbon_dioxide",
+      "icon": "mdi:molecule-co2",
+      "friendly_name": "A209 Airsense CO2 Value - A209"
+    },
+    "last_changed": "2024-06-17T11:40:13.627742+00:00",
+    "last_reported": "2024-06-17T11:40:13.627742+00:00",
+    "last_updated": "2024-06-17T11:40:13.627742+00:00",
+    "context": {
+      "id": "01J0JZYSXVQB0CGZ4BG0QVSN32",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a209_airsense_temperatur_von_dht_a209",
+    "state": "27.3",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°C",
+      "device_class": "temperature",
+      "friendly_name": "A209 Airsense Temperatur von DHT - A209"
+    },
+    "last_changed": "2024-06-17T11:20:04.528728+00:00",
+    "last_reported": "2024-06-17T11:20:04.528728+00:00",
+    "last_updated": "2024-06-17T11:20:04.528728+00:00",
+    "context": {
+      "id": "01J0JYSX5GDGX0FVGRES0DGQ41",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a011_airsense_co2_value_a011",
+    "state": "429",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "ppm",
+      "device_class": "carbon_dioxide",
+      "icon": "mdi:molecule-co2",
+      "friendly_name": "A011 Airsense CO2 Value - A011"
+    },
+    "last_changed": "2024-06-17T11:41:41.491114+00:00",
+    "last_reported": "2024-06-17T11:41:41.491114+00:00",
+    "last_updated": "2024-06-17T11:41:41.491114+00:00",
+    "context": {
+      "id": "01J0K01FQK6QMQABSXG4RNWMTQ",
+      "parent_id": null,
+      "user_id": null
+    }
+  },
+  {
+    "entity_id": "sensor.a011_airsense_temperatur_von_dht_a011",
+    "state": "26.8",
+    "attributes": {
+      "state_class": "measurement",
+      "unit_of_measurement": "°C",
+      "device_class": "temperature",
+      "friendly_name": "A011 Airsense Temperatur von DHT - A011"
+    },
+    "last_changed": "2024-06-17T11:42:31.884332+00:00",
+    "last_reported": "2024-06-17T11:42:31.884332+00:00",
+    "last_updated": "2024-06-17T11:42:31.884332+00:00",
+    "context": {
+      "id": "01J0K030YCTCXZCN93178CCFTF",
+      "parent_id": null,
+      "user_id": null
+    }
+  }
+]
