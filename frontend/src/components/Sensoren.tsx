@@ -118,7 +118,7 @@ export const Sensoren = (props: PropsSensoren) => {
   if (error) {
     console.error(error);
     return (
-      <div className="sensorCon">
+      <div className="sensorCon" id="live">
         <Callout title="Error" color="red">
           {" "}
           Live Values currently not available because of an failure in our
@@ -135,7 +135,7 @@ export const Sensoren = (props: PropsSensoren) => {
     valuesBBau == undefined
   ) {
     return (
-      <div className="sensorCon">
+      <div className="sensorCon" id="live">
         <Callout title="Error" color="red">
           {" "}
           Live Values currently not available because of an failure in our

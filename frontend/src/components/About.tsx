@@ -12,9 +12,9 @@ export const About = () => {
   const textNikolas = "";
 
   const jobSeb = "Frontend, Backend, CAD";
-  const jobTim = "Server, Backend";
+  const jobTim = "Server, Backend, 3D-Druck";
   const jobSamuel = "Algorithmus";
-  const jobNikolas = "Moralische Unterstützung";
+  const jobNikolas = "Elektro Technik";
 
   const fragen = [
     "Was ist das Projekt AirSense?",
